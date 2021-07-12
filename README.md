@@ -28,8 +28,8 @@ Alternatively, build & run the binary. <br>
 If the puzzle is solvable *N-Puzzle* prints the solution from inital state to solved.
 *N-Puzzle* then prints: 
 * Number of moves required
-* Size complexity (maximum number of states stored simultaneously in memory, during search)
-* Time complexity (total number of states explored, during search)
+* Size complexity (maximum number of states stored simultaneously in memory)
+* Time complexity (total number of states explored)
 * Solve time
 
 <img src="https://github.com/dfinnis/N-Puzzle/blob/master/img/3a.png" width="520">
